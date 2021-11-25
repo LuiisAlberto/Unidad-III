@@ -1,0 +1,5 @@
+C:\Unidad-III\obj\Debug\net6.0\Unidad-III.csproj.AssemblyReference.cache
+C:\Unidad-III\obj\Debug\net6.0\Unidad-III.GeneratedMSBuildEditorConfig.editorconfig
+C:\Unidad-III\obj\Debug\net6.0\Unidad-III.AssemblyInfoInputs.cache
+C:\Unidad-III\obj\Debug\net6.0\Unidad-III.AssemblyInfo.cs
+C:\Unidad-III\obj\Debug\net6.0\Unidad-III.csproj.CoreCompileInputs.cache
